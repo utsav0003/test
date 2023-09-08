@@ -1,0 +1,6 @@
+
+{{#user}}
+Name: Utsav Jha
+Skills: HTML, CSS, JS, React.js, Next.js, Material UI, TailWind CSS, Node.js, Express.js, Mongo DB, MySQL, Git, GitHub
+Email: utsavjha9958@gmail.com
+{{/user}}
